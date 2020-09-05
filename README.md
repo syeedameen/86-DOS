@@ -6,11 +6,24 @@
 marketed by Seattle Computer Products for its Intel 8086-based computer
 
 ------------------------------------------------
-### version history 
+
+## file Description 
 
 
-version                           |                      Description 
----------------------------------------------------------------------------
-0.0.1            |  First release 
-0.1.0            |  Added FPU memonics in Assembler 
-0.1.2            |  Increse Data buffer Size into Assembler  
+file                | Description 
+--------------------|--------------------------------------------
+[ASM.ASM]           | Macro Assembler for 8086 Assembly Language Added x87 Memonics  
+[COMMAND.ASM]       | DOS Standard Commands
+[HEX2BIN.ASM]       | convert intel hex file into standard binary 
+[IO.ASM]            | Input/Output Operation Managing 
+
+
+
+
+
+
+[ASM.ASM]:https://github.com/syeedameen/86-DOS/ASM.ASM
+[COMMAND.ASM]:https://github.com/syeedameen/86-DOS/COMMAND.ASM
+[HEX2BIN.ASM]:https://github.com/syeedameen/86-DOS/HEX2BIN
+[IO.ASM]:https://github.com/syeedameen/86-DOS/IO.ASM
+
