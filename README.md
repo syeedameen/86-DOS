@@ -22,8 +22,7 @@ file                | Description
 
 
 
-[ASM.ASM]:https://github.com/syeedameen/86-DOS/ASM.ASM
-[COMMAND.ASM]:https://github.com/syeedameen/86-DOS/COMMAND.ASM
-[HEX2BIN.ASM]:https://github.com/syeedameen/86-DOS/HEX2BIN
-[IO.ASM]:https://github.com/syeedameen/86-DOS/IO.ASM
-
+[ASM.ASM]:https://github.com/syeedameen/86-DOS/blob/master/ASM.ASM
+[COMMAND.ASM]:https://github.com/syeedameen/86-DOS/blob/master/COMMAND.ASM
+[HEX2BIN.ASM]:https://github.com/syeedameen/86-DOS/blob/master/HEX2BIN
+[IO.ASM]:https://github.com/syeedameen/86-DOS/blob/master/IO.ASM
